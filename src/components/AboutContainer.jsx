@@ -3,16 +3,11 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-        debitis est autem aperiam necessitatibus beatae assumenda illo rem
-        architecto quis dolor quae.
+        Olá, sou o Guilherme Casarim e busco o cargo de estágio/dev júnior na área de programação, exclusivamente focada em frontend. Atualmente, estou cursando Engenharia de Software no 2° ano pela Unifil e também estudando pela área de frontend.
       </p>
       <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
-        aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
-        distinctio provident impedit modi neque sapiente voluptate voluptates.
-        Maiores sint at dolores?
+        Estou atuando nessa área há aproximadamente um ano e procuro por experiência profissional, para que eu possa me tornar um profissional cada vez melhor e consiga trabalhar em equipe com qualidade.
+        Eu me considero um estudante dedicado e busco sempre melhorar.
       </p>
     </section>
   );

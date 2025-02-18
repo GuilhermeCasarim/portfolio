@@ -8,7 +8,7 @@ const ProjectsContainer = () => {
         cumque reiciendis accusamus totam, veniam iusto numquam distinctio.
         Dignissimos labore aspernatur pariatur?
       </p>
-      <a href="#" className="btn">
+      <a href="https://github.com/GuilhermeCasarim" className="btn" target="_blank">
         Ver Projetos
       </a>
     </section>

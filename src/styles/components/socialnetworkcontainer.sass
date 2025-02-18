@@ -1,6 +1,6 @@
 @use '../variables'
 @use '../mixins' 
-    
+
 #social-networks
     @include mixins.center
     gap: 1rem
@@ -16,16 +16,18 @@
 
     #linkedin
         color: #0072b1
+        &:hover
+            background: #0072b1
+            color: variables.$text-color
 
     #github
-        color: #111
+        color: #444444
+        &:hover
+            background: #2b2b2b
+            color: variables.$text-color
 
     #instagram
         color: #bc2a8d
-
-    :hover
-        background: variables.$gradient
-        > svg
+        &:hover
+            background: variables.$gradient
             color: variables.$text-color
-
-        
